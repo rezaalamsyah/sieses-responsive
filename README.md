@@ -5,7 +5,7 @@
 ![alt text](https://github.com/rezaalamsyah/sieses-responsive/blob/master/lat1%20(3).png)
 #latihan 2
 ![alt text](https://github.com/rezaalamsyah/sieses-responsive/blob/master/lat2%20(1).png)
-![alt text](https://github.com/rezaalamsyah/sieses-responsive/blob/master/lat2%20(2).png)
+![alt text](https://github.com/rezaalamsyah/sieses-responsive/blob/master/lat2%20(2)%20.png)
 ![alt text](https://github.com/rezaalamsyah/sieses-responsive/blob/master/lat2%20(3).png)
 #latihan 3
 ![alt text](https://github.com/rezaalamsyah/sieses-responsive/blob/master/lat3%20(1).png)
